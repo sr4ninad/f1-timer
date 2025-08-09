@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/f1-timer/static/css/main.9bdb9d3a.css",
+    "main.js": "/f1-timer/static/js/main.24e59a14.js",
+    "index.html": "/f1-timer/index.html",
+    "main.9bdb9d3a.css.map": "/f1-timer/static/css/main.9bdb9d3a.css.map",
+    "main.24e59a14.js.map": "/f1-timer/static/js/main.24e59a14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bdb9d3a.css",
+    "static/js/main.24e59a14.js"
+  ]
+}
